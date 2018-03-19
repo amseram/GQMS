@@ -2,6 +2,6 @@
 
 <table>
 <tr>
-<td>Foo</td>
+<td>Test</td>
 </tr>
 </table>
