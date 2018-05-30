@@ -71,7 +71,7 @@ class show_option:
             curpass  = ""
             while passwd == "" or username == "" or curpass == "":
                 username = str(raw_input("username : "))
-                curpass   = str(raw_input("current passwd : "))
+                curpass  = str(raw_input("current passwd : "))
                 passwd   = str(raw_input("neopasswd : "))
                 tmppss   = str(raw_input("retype passwd : "))
                 if tmppss != passwd :
