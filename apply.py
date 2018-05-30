@@ -6,7 +6,7 @@
 
 # File Name: apply.py
 # Description:
-
+# Apply an account on GQMS (console version)
 """
 
 import sys,socket
